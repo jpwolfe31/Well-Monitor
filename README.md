@@ -1,4 +1,4 @@
-# well-monitor
+# Well-monitor
 Arduino Well Monitoring System using MKR1010 and Blynk for Water Wells
 
 This well monitor was my first Arduino project.  We had recently moved into a house that had an elaborate well and irrigation system.  It was difficult to determine how to optimize the system to maintain a consistent holding tank water supply as there was no way to collect operational data.
@@ -15,5 +15,4 @@ If I were building this project again, I would use a Nano-ESP32 and a separate S
 Pardon the code.  It is a bit messy given that it started with a menu system, the OLED display and push buttons and now has the Blynk system overlayed as well.
 Unfortunately, Blynk is not supporting new makers on its app right now, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger widget, although the reports would need some reformatting.
 
-Happy to answer any questions.
-
+See folders above for code, schematics and build information.  Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
