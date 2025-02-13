@@ -1,4 +1,4 @@
-# Well-monitor
+# Well-Monitor
 Arduino Well Monitoring System using MKR1010 and Blynk for Water Wells
 
 This well monitor was my first Arduino project.  We had recently moved into a house that had an elaborate well and irrigation system.  It was difficult to determine how to optimize the system to maintain a consistent holding tank water supply as there was no way to collect operational data.
